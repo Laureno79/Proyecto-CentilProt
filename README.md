@@ -1,4 +1,5 @@
 CentilProt: Artificial Intelligence System for Protection and Defense
+
 CentilProt is a pilot program developed to act as the core of intelligent security and monitoring, internally referred to as the Brain. This project uses advanced AI technologies to ensure secure digital environments through early detection and automated defensive response.
 
 ⚙️ Main Features
@@ -26,6 +27,7 @@ This project is governed by the principle of AI for exclusive protection. Usage 
 Currently, CentilProt is in its Pilot Program phase. Integration and refinement testing of the detection algorithms are being conducted in local environments before scaling.
 
 CentilProt: Sistema de Inteligencia Artificial para Protección y Defensa
+
 CentilProt es un programa piloto desarrollado para actuar como el núcleo de la seguridad y la monitorización inteligente, conocido internamente como el Cerebro. Este proyecto utiliza tecnologías avanzadas de IA para garantizar entornos digitales seguros mediante la detección temprana y la respuesta defensiva automatizada.
 
 ⚙️ Características principales
